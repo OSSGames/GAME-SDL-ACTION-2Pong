@@ -1,0 +1,47 @@
+2Pong v1.0a
+
+Notes:
+~~~~~~
+	- Rewrote from scratch.
+	- Much faster, uses less resources, etc.
+	- Windows support.
+	- Network game should work ok.
+	- Graphics are obviously placeholders (if you can do better, let me know - kirsh@softhome.net).
+	- `Kickups` will return in the next release.
+	- Added a few Powerup-thingies (faster ball, slower ball, split ball in two, etc). Should make it a bit more interesting.
+	- A settings menu (including getting rid of the powerups) in the next release.
+
+Requirements:
+~~~~~~~~~~~~~
+
+	- SDL
+	- SDL_Net
+	- SDL_Mixer
+	- iconv
+	- zlib
+	- libxml2
+
+
+Compiling:
+~~~~~~~~~~
+	- cd src
+	- make
+
+Credits:
+~~~~~~~~
+
+	- Kirsh
+	- Nazgul
+	- Limburger
+	- Grooveygr
+	- Xetrov
+	- MatanH
+	- Noam
+	- Eskorbuto
+	- Chaka
+	- SantaTron
+	- bgo-
+
+License:
+~~~~~~~~
+	- This program is released under the GPL.
